@@ -110,6 +110,12 @@ because cherryCMS load the right translation file in the page with $current_lang
 [Rocket App](https://github.com/ceruttigianluca/rocket-app) - Rocket App, reset your Mac's Launchpad in just one click<br>
 [Spot App](https://github.com/ceruttigianluca/spot-app) - Spot App, reset, fix and re-index your Mac's Spotlight in just one click<br>
 
-## Buy me a coffee
-[Paypal.me](https://www.paypal.me/gianlucacherry/2gbp) - Thank you! :raised_hands:
+## Credits
+[Stefano Savio](https://stefanosavio.com) - developer
+[Bulma](https://github.com/jgthms/bulma) - open source CSS framework based on Flexbox
+[Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - the perfect Front End Checklist for modern websites and meticulous developers
+
+
+## Copyright and license
+Code copyright 2018 Gianluca Cerutti. Code released under the MIT license.
 
