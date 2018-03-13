@@ -104,18 +104,18 @@ translation-*lang code in ISO 639-1*.php
 
 because cherryCMS load the right translation file in the page with $current_lang variable setted by url-manager.php.
 
-## Do you need something more?
-[Hidden App](https://github.com/ceruttigianluca/hidden-app) - Hidden App, show and hide macOS hidden files in just one click<br>
-[Space App](https://github.com/ceruttigianluca/space-app) - Space App, add spaces to your Mac's Dock in just one click<br>
-[Rocket App](https://github.com/ceruttigianluca/rocket-app) - Rocket App, reset your Mac's Launchpad in just one click<br>
-[Spot App](https://github.com/ceruttigianluca/spot-app) - Spot App, reset, fix and re-index your Mac's Spotlight in just one click<br>
-
 ## Credits
-[Stefano Savio](https://stefanosavio.com) - developer
-[Bulma](https://github.com/jgthms/bulma) - open source CSS framework based on Flexbox
-[Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - the perfect Front End Checklist for modern websites and meticulous developers
+[Stefano Savio](https://stefanosavio.com) - developer<br>
+[Bulma](https://github.com/jgthms/bulma) - open source CSS framework based on Flexbox<br>
+[Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - the perfect Front End Checklist for modern websites and meticulous developers<br>
 
 
 ## Copyright and license
 Code copyright 2018 Gianluca Cerutti. Code released under the MIT license.
 
+## Do you need something more?
+[Hidden App](https://github.com/ceruttigianluca/hidden-app) - Hidden App, show and hide macOS hidden files in just one click<br>
+[Space App](https://github.com/ceruttigianluca/space-app) - Space App, add spaces to your Mac's Dock in just one click<br>
+[Rocket App](https://github.com/ceruttigianluca/rocket-app) - Rocket App, reset your Mac's Launchpad in just one click<br>
+[Spot App](https://github.com/ceruttigianluca/spot-app) - Spot App, reset, fix and re-index your Mac's Spotlight in just one click<br>
+[Chrome Incognito](https://github.com/ceruttigianluca/chrome-incognito) - Open Google Chrome in Incognito mode on your Mac in just one click from Dock<br>
