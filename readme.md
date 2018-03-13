@@ -8,11 +8,6 @@ Made for **freshly devs**.
 We'll add new features every month, this is only the **first release** (v0.1).<br>
 Stay tuned!
 
-**NPM**<br>
-```
-npm install cherryCMS
-```
-
 In the main directory you can find 2 PHP files and 6 folders:
 
 - content.php
@@ -27,6 +22,7 @@ In the main directory you can find 2 PHP files and 6 folders:
 Let's start with **index.php** file
 
 ## Things to know
+You can use every CSS you want, from [Bulma CSS Framework](https://github.com/jgthms/bulma) to your own code.
 [ M ] == Files you have to modify<br>
 [ C ] == Files you can improve, core of cherryCMS
 
