@@ -5,7 +5,7 @@ Made for **freshly devs**.
 ![cherryCMS logo](http://www.laboratoriociliegia.it/github/cherryCMS-logo.png)<br>
 
 ## Get started
-We'll add new features every month, this is only the **first release**.<br>
+We'll add new features every month, this is only the **first release** (v0.1).<br>
 Stay tuned!
 
 **NPM**<br>
