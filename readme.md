@@ -4,7 +4,7 @@ Made for **freshly devs**.
 
 ![cherryCMS logo](http://www.laboratoriociliegia.it/github/cherryCMS-logo.png)<br>
 
-##Get started
+## Get started
 We'll add new features every month, this is only the **first release**.<br>
 Stay tuned!
 
@@ -26,11 +26,11 @@ In the main directory you can find 2 PHP files and 6 folders:
 
 Let's start with **index.php** file
 
-##Things to know
+## Things to know
 [ M ] == Files you have to modify<br>
 [ C ] == Files you can improve, core of cherryCMS
 
-##Index
+## Index
 The [ M ] index.php file is strongly commented.<br>
 Before the < head > tag cherryCMS loads all the core compontents:
 
@@ -42,7 +42,7 @@ Before the < head > tag cherryCMS loads all the core compontents:
 
 The content of the index.php file change dynamically based on the source URL.
 
-##Content
+## Content
 [ M ] content.php is a PHP Multidimensional Array that allows you to set all the basic information of the pages:
 
 - URL
@@ -52,7 +52,7 @@ The content of the index.php file change dynamically based on the source URL.
 - canonical URL
 - content
 
-##Base
+## Base
 Here we can find the core of cherryCMS:
 
 - [ C ] alternate-languages.php <br>
@@ -72,10 +72,10 @@ The website name for Facebook Open Graph and your Twitter website account.
 - [ C ] url-manager.php <br>
 **URL manager** of cherryCMS.
 
-##Fragments
+## Fragments
 In this folder you have your navbar and your footer, globally setted.
 
-##Icons
+## Icons
 All the favicons (and files for manage favicons) you need:
 
 - standard favicons
@@ -85,16 +85,16 @@ All the favicons (and files for manage favicons) you need:
 - Apple touch icon
 - browserconfig.xml for Microsoft Windows tiles
 
-##Js
+## Js
 [ C ] mobile-nav.js<br>
 **the only Javascript file** you can find in cherryCMS.
 
-##Pages
+## Pages
 You have to put the code of your pages here.<br>
 The **text content** of your page **is managed with PHP variable**.<br>
 This is the simplest solution if you have to create a website with the **same content translated in different languages**.
 
-##Translations
+## Translations
 Thanks to PHP Associative Arrays you can **easely translate in an unlimited number of languages** your website, without any pain ;)<br>
 The translation files needs to be named
 
