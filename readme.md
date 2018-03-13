@@ -2,7 +2,7 @@
 cherryCMS is the **simplest CMS without database** in the world.<br>
 Made for **freshly devs**.
 
-![cherryCMS logo](http://www.laboratoriociliegia.it/github/cherryCMS-logo.png)<br>
+![cherryCMS logo](http://www.laboratoriociliegia.it/github/cherryCMS-logo-extended.png)<br>
 
 ## Get started
 We'll add new features every month, this is only the **first release** (v0.1).<br>
@@ -109,13 +109,12 @@ because cherryCMS load the right translation file in the page with $current_lang
 [Bulma](https://github.com/jgthms/bulma) - open source CSS framework based on Flexbox<br>
 [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) - the perfect Front End Checklist for modern websites and meticulous developers<br>
 
-
-## Copyright and license
-Code copyright 2018 Gianluca Cerutti. Code released under the MIT license.
-
 ## Do you need something more?
 [Hidden App](https://github.com/ceruttigianluca/hidden-app) - Hidden App, show and hide macOS hidden files in just one click<br>
 [Space App](https://github.com/ceruttigianluca/space-app) - Space App, add spaces to your Mac's Dock in just one click<br>
 [Rocket App](https://github.com/ceruttigianluca/rocket-app) - Rocket App, reset your Mac's Launchpad in just one click<br>
 [Spot App](https://github.com/ceruttigianluca/spot-app) - Spot App, reset, fix and re-index your Mac's Spotlight in just one click<br>
 [Chrome Incognito](https://github.com/ceruttigianluca/chrome-incognito) - Open Google Chrome in Incognito mode on your Mac in just one click from Dock<br>
+
+## Copyright and license
+Code copyright 2018 Gianluca Cerutti. Code released under the [MIT license](https://github.com/gianlucacerutti/cherryCMS/blob/master/LICENSE).
