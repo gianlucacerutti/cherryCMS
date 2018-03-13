@@ -22,7 +22,7 @@ In the main directory you can find 2 PHP files and 6 folders:
 Let's start with **index.php** file
 
 ## Things to know
-You can use every CSS you want, from [Bulma CSS Framework](https://github.com/jgthms/bulma) to your own code.
+You can use every CSS you want, from [Bulma CSS Framework](https://github.com/jgthms/bulma) to your own code.<br>
 [ M ] == Files you have to modify<br>
 [ C ] == Files you can improve, core of cherryCMS
 
